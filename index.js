@@ -143,7 +143,7 @@ async function uploadFile(drive){
 }
 
 function upload(drive){
-  var path = "D:/AA_UNI/YEAR_4/PMUD/PersonalDrive";
+  var path = "/";
   var fileMetadata = {
     'name': userArg
   };
